@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nqobile\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nqobile\\.nuget\\packages"
+    ]
+  }
+}
