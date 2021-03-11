@@ -109,7 +109,7 @@ namespace dotNetApp
             Console.ResetColor();
         }
 
-        // Ask user's name and greet ORIGINAL
+        // Ask user's name and greet
         public static void GreetPlayer() {
             // Ask user's name
             Console.WriteLine("What is your name?");
